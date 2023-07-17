@@ -10,5 +10,9 @@ public class class1
 		System.out.println("hi how are dfgaer");
 		System.out.println("hi how are dgargE");
 		System.out.println("hi how are bgbfghsf");
+		System.out.println("hi how are you");
+		System.out.println("hi how are you");
+		System.out.println("hi how are you");
+		
 	}
 }
